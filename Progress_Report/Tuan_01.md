@@ -1,6 +1,5 @@
 # BÁO CÁO TIẾN ĐỘ ĐỒ ÁN - TUẦN 1
 
-- **Khoảng thời gian:** 22/06/2026 - 28/06/2026
 - **Trọng tâm công việc:** Giai đoạn chuẩn bị và nghiên cứu lý thuyết cơ sở
 
 ## 1. Nội dung công việc
