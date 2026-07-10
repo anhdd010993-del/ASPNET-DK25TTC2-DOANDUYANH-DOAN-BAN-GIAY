@@ -418,5 +418,5 @@ Update-Package -reinstall
 
 ---
 
-## 👨‍💻 Tác giả
+## 👨‍💻 Tác giả:
 Đồ án môn học — Website Bán Giày Dép — ASP.NET MVC 5
